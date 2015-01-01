@@ -17,6 +17,6 @@ If you would like to include this in your modpack, please do so
 
 RESOURCE PACK PERMISSIONS
 If you would like to make a resource pack for this mod please contact me
-Contact: nathandow1@hotmail.co.uk
+Contact: nathandow1@hotmail.co.uk (in your internet browser (i.e Firefox, Chrome, IE) put in your address bar "mailto:nathandow1@hotmail.co.uk" without quotations
 
 ©2014-2015 MINECAST Nathan 
